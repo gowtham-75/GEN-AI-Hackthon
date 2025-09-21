@@ -1,0 +1,56 @@
+# Core FastAPI and web framework
+fastapi
+uvicorn[standard]
+websockets
+
+# HTTP clients and networking
+httpx
+requests
+aiohttp
+
+# Data validation and serialization
+pydantic
+
+# Environment and configuration
+python-dotenv
+
+# AI and ML libraries
+google-generativeai
+langchain-google-genai
+openai
+tiktoken
+
+# AutoGen dependencies
+autogen-agentchat
+autogen-ext
+
+# MCP (Model Context Protocol)
+mcp
+mcp[cli]
+mcp-use 
+
+# Database
+sqlalchemy
+
+# Geolocation and mapping
+geopy
+
+# Data processing
+pandas
+numpy
+
+# Date and time handling
+python-dateutil
+
+# Testing framework
+pytest
+pytest-asyncio
+
+# Development tools
+black
+flake8
+nest_asyncio
+
+# Optional: For production deployment
+gunicorn
+uv

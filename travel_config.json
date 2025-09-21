@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+        "travel": {
+            "command": "uv",
+            "args": [
+                "run",
+                "--with",
+                "mcp[cli]",
+                "mcp",
+                "run",
+                "C:\\Users\\R AJAYDEVAN\\OneDrive\\Documents\\GenAIExchangeHackathon\\Prototype\\travel_mcp_server.py"
+            ]
+        }
+    }
+}
